@@ -1,0 +1,8 @@
+if (textBox1.Text == "virus32" && textBox2.Text == "12345" || textBox1.Text == "mr_coder" && textBox2.Text == "1020304050")
+{
+	MessageBox.Show("اطلاعات وارد شده صحیح است", "پیغام",MessageBoxButtons.OK);
+}
+else
+{
+	MessageBox.Show("داداچ داری اشتبا میزنی", "پیغام", MessageBoxButtons.OK);
+}
