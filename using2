@@ -1,1 +1,0 @@
-static OleDbConnection conn = new OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=login.mdb");
